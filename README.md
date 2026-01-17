@@ -6,7 +6,6 @@ This repository contains materials for implementing and documenting **ODE-based 
 
 ## Repository Structure
 
-
 ### `ODEv1.0/`
 
 The `ODEv1.0` folder includes all components required to reproduce results from **ODE version 1.0**:
@@ -44,10 +43,3 @@ The goals of this repository are to:
 - Align model implementation and reporting with COVID-19 Modeling Hub conventions  
 - Serve as a modular starting point for integrating **Neural ODE (Neuro-ODE)** methods in later versions  
 
----
-
-## Notes
-
-- This repository currently documents **ODE version 1.0** only.  
-
----
